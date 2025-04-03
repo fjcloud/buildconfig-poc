@@ -1,1 +1,1 @@
-FROM  quay.io/fjacquinrh/openshift/release-images
+FROM  docker.io/busybox
